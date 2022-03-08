@@ -1,4 +1,5 @@
 const FOLLOW = "FOLLOW";
+import { toggleIsFetchingAC } from "./users-reducer";
 const UNFOLLOW = "UNFOLLOW";
 const SET_USERS = "SET_USERS";
 const SET_CURRENT_PAGE = "SET_CURRENT_PAGE";
